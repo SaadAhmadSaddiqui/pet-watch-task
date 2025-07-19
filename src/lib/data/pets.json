@@ -1,0 +1,207 @@
+[
+	{
+		"id": "1",
+		"name": "Bella",
+		"breed": "Golden Retriever",
+		"age": 3,
+		"description": "Bella is a friendly and energetic dog who loves playing fetch and going on walks. She's great with kids and other pets.",
+		"imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=400&fit=crop",
+		"adoptionFee": 350,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.2048,
+			"longitude": 55.2708,
+			"address": "Dubai, UAE"
+		},
+		"characteristics": ["Friendly", "Energetic", "Good with kids", "House trained"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true,
+			"healthNotes": "Recently checked by vet, all vaccinations up to date"
+		}
+	},
+	{
+		"id": "2",
+		"name": "Max",
+		"breed": "German Shepherd",
+		"age": 5,
+		"description": "Max is a loyal and intelligent dog, perfect for an active family. He knows basic commands and is very protective.",
+		"imageUrl": "https://images.unsplash.com/photo-1551717743-49959800b1f6?w=400&h=400&fit=crop",
+		"adoptionFee": 400,
+		"isAvailable": true,
+		"location": {
+			"latitude": 24.4539,
+			"longitude": 54.3773,
+			"address": "Abu Dhabi, UAE"
+		},
+		"characteristics": ["Loyal", "Intelligent", "Protective", "Trained"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true
+		}
+	},
+	{
+		"id": "3",
+		"name": "Luna",
+		"breed": "Persian Cat",
+		"age": 2,
+		"description": "Luna is a calm and affectionate cat who loves to cuddle. She's perfect for a quiet home and loves attention.",
+		"imageUrl": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop",
+		"adoptionFee": 200,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.3463,
+			"longitude": 55.4209,
+			"address": "Sharjah, UAE"
+		},
+		"characteristics": ["Calm", "Affectionate", "Indoor cat", "Low maintenance"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": false,
+			"healthNotes": "Scheduled for neutering next month"
+		}
+	},
+	{
+		"id": "4",
+		"name": "Charlie",
+		"breed": "Labrador Mix",
+		"age": 1,
+		"description": "Charlie is a playful puppy full of energy. He's still learning but very eager to please and loves treats.",
+		"imageUrl": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop",
+		"adoptionFee": 300,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.4111,
+			"longitude": 55.4354,
+			"address": "Ajman, UAE"
+		},
+		"characteristics": ["Playful", "Young", "Energetic", "Trainable"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": false,
+			"healthNotes": "Too young for neutering, will need to be done at 6 months"
+		}
+	},
+	{
+		"id": "5",
+		"name": "Whiskers",
+		"breed": "Siamese Cat",
+		"age": 4,
+		"description": "Whiskers is a talkative and intelligent cat. She loves interactive toys and has a strong personality.",
+		"imageUrl": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?w=400&h=400&fit=crop",
+		"adoptionFee": 180,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.5647,
+			"longitude": 55.5534,
+			"address": "Umm Al Quwain, UAE"
+		},
+		"characteristics": ["Talkative", "Intelligent", "Independent", "Active"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true
+		}
+	},
+	{
+		"id": "6",
+		"name": "Rocky",
+		"breed": "Bulldog",
+		"age": 6,
+		"description": "Rocky is a gentle giant who loves relaxing and moderate walks. Perfect for a calm household.",
+		"imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400&h=400&fit=crop",
+		"adoptionFee": 450,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.7895,
+			"longitude": 55.9432,
+			"address": "Ras Al Khaimah, UAE"
+		},
+		"characteristics": ["Gentle", "Calm", "Low energy", "Good with seniors"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true,
+			"healthNotes": "Has mild arthritis, needs gentle exercise"
+		}
+	},
+	{
+		"id": "7",
+		"name": "Mia",
+		"breed": "Border Collie",
+		"age": 2,
+		"description": "Mia is extremely intelligent and needs mental stimulation. Perfect for active owners who love training.",
+		"imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop",
+		"adoptionFee": 380,
+		"isAvailable": true,
+		"location": {
+			"latitude": 24.1302,
+			"longitude": 55.8023,
+			"address": "Al Ain, UAE"
+		},
+		"characteristics": ["Intelligent", "Active", "Needs mental stimulation", "Highly trainable"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true
+		}
+	},
+	{
+		"id": "8",
+		"name": "Fluffy",
+		"breed": "Maine Coon",
+		"age": 3,
+		"description": "Fluffy is a large, gentle cat with a beautiful coat. She's friendly with everyone and loves being brushed.",
+		"imageUrl": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=400&h=400&fit=crop",
+		"adoptionFee": 250,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.3416,
+			"longitude": 56.3422,
+			"address": "Khor Fakkan, UAE"
+		},
+		"characteristics": ["Gentle", "Large", "Friendly", "Requires grooming"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true
+		}
+	},
+	{
+		"id": "9",
+		"name": "Buddy",
+		"breed": "Beagle",
+		"age": 4,
+		"description": "Buddy is a curious and friendly dog with a great nose for adventure. He loves exploring and meeting new people.",
+		"imageUrl": "https://images.unsplash.com/photo-1544525977-0ceacc5f8f7b?w=400&h=400&fit=crop",
+		"adoptionFee": 320,
+		"isAvailable": true,
+		"location": {
+			"latitude": 25.2048,
+			"longitude": 55.2708,
+			"address": "Dubai, UAE"
+		},
+		"characteristics": ["Curious", "Friendly", "Good with kids", "Loves walks"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": true
+		}
+	},
+	{
+		"id": "10",
+		"name": "Shadow",
+		"breed": "Black Cat Mix",
+		"age": 1,
+		"description": "Shadow is a playful young cat who loves to explore and play with toys. She's very social and loves attention.",
+		"imageUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=400&h=400&fit=crop",
+		"adoptionFee": 150,
+		"isAvailable": true,
+		"location": {
+			"latitude": 24.4539,
+			"longitude": 54.3773,
+			"address": "Abu Dhabi, UAE"
+		},
+		"characteristics": ["Playful", "Social", "Young", "Loves toys"],
+		"medicalInfo": {
+			"vaccinated": true,
+			"neutered": false,
+			"healthNotes": "Scheduled for neutering next week"
+		}
+	}
+]
